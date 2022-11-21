@@ -1,4 +1,4 @@
-# Lista 1
+# Lista 1 e 2
 1) Escrever uma função que receba como parâmetro uma pilha.
 A função deve retornar o maior elemento da pilha. A passagem deve
 ser por valor ou referência?
@@ -34,7 +34,8 @@ pilhas (N e P) e um vetor de inteiros. Para cada um:
 - se negativo, inserir na pilha N;
 - se zero, retirar um elemento de cada pilha.
 
-#Lista 2
+LISTA 2 -----------------------
+
 1- Construa uma Pilha utilizando a linguagem Python. Dada uma sequência contendo N (N
 &gt;0) números inteiros, imprimi-la na ordem inversa.
 
